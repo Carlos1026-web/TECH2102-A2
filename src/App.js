@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Derek Carlos</h1>
+    <h1>Derek Carlos - TECH2102</h1>
   );
 }
 
